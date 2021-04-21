@@ -1,4 +1,4 @@
-melchorsanchezmartinez.github.io
+MelchorSanchez.github.io
 ================
 This personal website is a **fork from bbarad.github.io**, that is a freely licensed personal website for Benjamin Barad. Follow the instructions provided by bbarad to clone it.
 
