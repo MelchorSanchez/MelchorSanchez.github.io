@@ -2,13 +2,17 @@
   url: /
   group: home
 
+- name: bio
+  url: /
+  group: bio
+
 - name: publications
   url: /publications
   group: publications
 
-# - name: blog
-#   url: /blog
-#   group: blog
+- name: blog
+  url: /blog
+  group: blog
 
 - name: contact
   url: /contact
