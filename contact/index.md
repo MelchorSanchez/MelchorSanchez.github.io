@@ -6,8 +6,18 @@ group: contact
 
 <h1 class="page-header text-center"> Contact </h1>
 
-The easiest way to get in touch with me is by [email](mailto:benjamin.barad+website@gmail.com). You can contact me via google hangouts at the same address or call me at [310.594.7634](tel:+13105947634). 
+The easiest way to get in touch with me is by [email]('mailto:sanchezmartinezmelchor@gmail.com).
 
-You can also find me online at [twitter](http://twitter.com/benjaminbarad), [instagram](https://instagram.com/benjamin.barad), and [github](http://github.com/bbarad).
+You can also find me online at [twitter](http://twitter.com/melsanm), [linkedin](http://https://www.linkedin.com/in/melchorsanchezmartinez/), and [github](http://github.com/MelchorSanchez).
 
-I strive to share all of my work, scientific or otherwise, as widely as possible, and would be happy to share anything that is not available on public sources. 
+Also you can just drop me a message
+
+<h2 class="Get in Touch"> Contact </h2>
+  <form action="https://formspree.io/xqkwagda" method="POST">
+  <input type="hidden" name="_subject" value="Contact request from personal website" />
+  <input type="email" name="_replyto" placeholder="Your email" required>
+  <textarea name="message" placeholder="Type your message" required></textarea>
+  <button type="submit">Send</button>
+</form>
+
+I would be happy to discuss anything related to my research, the topics covered in the blog or something with that I am experienced. I would be also happy to share anything from my research that can be make public and is not available on public sources.  If I can help you, just tell me!
