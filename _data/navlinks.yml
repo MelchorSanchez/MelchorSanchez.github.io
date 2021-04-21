@@ -3,7 +3,7 @@
   group: home
 
 - name: bio
-  url: /
+  url: /bio
   group: bio
 
 - name: publications
