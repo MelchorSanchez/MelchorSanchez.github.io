@@ -1,6 +1,6 @@
-bbarad.github.io
+melchorsanchezmartinez.github.io
 ================
-Freely licensed personal website for Benjamin Barad
+This personal website is a form from bbarad.github.io, that is a freely licensed personal website for Benjamin Barad. Follow the isntructions provided by bbarad to clone it.
 
 ## How to clone this website:
 1. Fork it and change the repository name to USERNAME.github.io (mine was bbarad, but that won't work for you!)
