@@ -14,7 +14,6 @@ Also you can just drop me a message
 
 <form action="https://formspree.io/f/xqkwagda" method="POST">
  <input type="hidden" name="_subject" value="Contact request from personal website" />
- <input type="name" name="_replyto" placeholder="Your name" required>
  <input type="email" name="_replyto" placeholder="Your email" required>
  <textarea name="message" placeholder="Type your message" required></textarea>
  <button type="submit">Send</button>
