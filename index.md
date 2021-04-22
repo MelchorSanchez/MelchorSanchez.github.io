@@ -10,7 +10,7 @@ group: home
 
 <h2 class="text-center">Website under construction</h2>
 
-<img src="/static/img/giphy.gif" class="img-responsive max-width: 100%; height: auto"/>
+<img src="/static/img/giphy.gif" class="img-responsive center-block max-width: 100%; height: auto"/>
 
 <p class="lead text-justify">
 </p>
