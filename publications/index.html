@@ -14,13 +14,13 @@ group: publications
         </div>
         <div class="row" style="padding-top: 20px; margin-top: - 20px;">
           <div class="col-sm-6">
-            <img class = "img-responsive" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
+            <img class = "img-responsive" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 300px; max-width: 300px">
           </div>
           <ul class="col-sm-6">
               <strong>Access the paper</strong>
               <!--DOI-->
               {% if publication.pmid %}
-              <li>DOI: <a href="www.doi.org/{{publication.doi}}" alt = "doi link: {{publication.doi}}"> {{publication.doi}}</a></li>
+              <li>DOI: <a href="https://www.doi.org/{{publication.doi}}" alt = "doi link: {{publication.doi}}"> {{publication.doi}}</a></li>
               {% endif %}
 
               <!--PMID-->
