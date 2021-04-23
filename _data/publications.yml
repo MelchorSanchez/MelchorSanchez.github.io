@@ -42,45 +42,41 @@
   year: "2019"
   pmid: "31790581"
   pmcid: "PMC7344333"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
 
 
 
 - title: "Computational de-orphanization of the olive oil biophenol oleacein: Discovery of new metabolic and epigenetic targets."
   citation: "Cuyàs, Elisabet; Castillo, David; Llorach-Parés, Laura; Lozano-Sánchez, Jesús; Verdura, Sara; Nonell-Canals, Alfons; Brunet, Joan; Bosch-Barrera, Joaquim; Joven, Jorge; Valdés, Rafael; **Sanchez-Martinez, Melchor**; Segura-Carretero, Antonio; Menendez, Javier A. *Food Chem Toxicol* , 2019"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/extravirginoliveoil2020.jpeg"
   date: "2019-05-29"
   journal: "Food Chem Toxicol"
   doi: "10.1016/j.fct.2019.05.037"
   volume: "131"
-  issue: "nan"
   pages: "110529"
   year: "2019"
   pmid: "31150784"
   pmcid: "nan"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
 
 
 
 - title: "Extra Virgin Olive Oil Contains a Phenolic Inhibitor of the Histone Demethylase LSD1/KDM1A."
   citation: "Cuyàs, Elisabet; Gumuzio, Juan; Lozano-Sánchez, Jesús; Carreras, David; Verdura, Sara; Llorach-Parés, Laura; **Sanchez-Martinez, Melchor**; Selga, Elisabet; Pérez, Guillermo J; Scornik, Fabiana S; Brugada, Ramon; Bosch-Barrera, Joaquim; Segura-Carretero, Antonio; Martin, Ángel G; Encinar, José Antonio; Menendez, Javier A. *Nutrients* , 2019"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/nutrients2020.jpeg"
   date: "2019-07-19"
   journal: "Nutrients"
   doi: "10.3390/nu11071656"
   volume: "11"
   issue: "7"
-  pages: "nan"
   year: "2019"
   pmid: "31331073"
   pmcid: "PMC6683035"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://www.mdpi.com/2072-6643/11/7/1656/htm"
 
 
 
 - title: "The extra virgin olive oil phenolic oleacein is a dual substrate-inhibitor of catechol-O-methyltransferase."
   citation: "Cuyàs, Elisabet; Verdura, Sara; Lozano-Sánchez, Jesús; Viciano, Ignacio; Llorach-Parés, Laura; Nonell-Canals, Alfons; Bosch-Barrera, Joaquim; Brunet, Joan; Segura-Carretero, Antonio; **Sanchez-Martinez, Melchor**; Encinar, José Antonio; Menendez, Javier A. *Food Chem Toxicol* , 2019"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/comt.jpeg"
   date: "2019-03-29"
   journal: "Food Chem Toxicol"
   doi: "10.1016/j.fct.2019.03.049"
@@ -89,13 +85,12 @@
   pages: "35-45"
   year: "2019"
   pmid: "30935952"
-  pmcid: "nan"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+
 
 
 - title: "An olive oil phenolic is a new chemotype of mutant isocitrate dehydrogenase 1 (IDH1) inhibitors."
   citation: "Verdura, Sara; Cuyàs, Elisabet; Lozano-Sánchez, Jesús; Bastidas-Velez, Cristian; Llorach-Parés, Laura; Fernández-Arroyo, Salvador; Hernández-Aguilera, Anna; Joven, Jorge; Nonell-Canals, Alfons; Bosch-Barrera, Joaquim; Martin-Castillo, Begoña; Vellon, Luciano; **Sanchez-Martinez, Melchor**; Segura-Carretero, Antonio; Menendez, Javier A. *Carcinogenesis* , 2019"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/idh1.jpeg"
   date: "2019-03-01"
   journal: "Carcinogenesis"
   doi: "10.1093/carcin/bgy159"
@@ -105,45 +100,42 @@
   year: "2019"
   pmid: "30428017"
   pmcid: "nan"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
 
 
 
 - title: "Metformin Is a Direct SIRT1-Activating Compound: Computational Modeling and Experimental Validation."
   citation: "Cuyàs, Elisabet; Verdura, Sara; Llorach-Parés, Laura; Fernández-Arroyo, Salvador; Joven, Jorge; Martin-Castillo, Begoña; Bosch-Barrera, Joaquim; Brunet, Joan; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**; Menendez, Javier A. *Front Endocrinol (Lausanne)* , 2018"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/metforfrontiers.jpg"
   date: "2018-11-06"
   journal: "Front Endocrinol (Lausanne)"
   doi: "10.3389/fendo.2018.00657"
   volume: "9"
-  issue: "nan"
   pages: "657"
   year: "2018"
   pmid: "30459716"
   pmcid: "PMC6232372"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://www.frontiersin.org/articles/10.3389/fendo.2018.00657/full"
 
 
 
 - title: "Kororamides, Convolutamines, and Indole Derivatives as Possible Tau and Dual-Specificity Kinase Inhibitors for Alzheimer's Disease: A Computational Study."
   citation: "Llorach-Pares, Laura; Nonell-Canals, Alfons; Avila, Conxita*; **Sanchez-Martinez, Melchor***. *Mar Drugs* , 2018"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/kororamides.jpg"
   date: "2018-10-16"
   journal: "Mar Drugs"
   doi: "10.3390/md16100386"
   volume: "16"
   issue: "10"
-  pages: "nan"
   year: "2018"
   pmid: "30332805"
   pmcid: "PMC6213646"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://www.mdpi.com/1660-3397/16/10/386/htm"
 
 
 
 - title: "STAT3 labels a subpopulation of reactive astrocytes required for brain metastasis."
   citation: "Priego, Neibla; Zhu, Lucía; Monteiro, Cátia; Mulders, Manon; Wasilewski, David; Bindeman, Wendy; Doglio, Laura; Martínez, Liliana; Martínez-Saez, Elena; Ramón Y Cajal, Santiago; Megías, Diego; Hernández-Encinas, Elena; Blanco-Aparicio, Carmen; Martínez, Lola; Zarzuela, Eduardo; Muñoz, Javier; Fustero-Torre, Coral; Piñeiro-Yáñez, Elena; Hernández-Laín, Aurelio; Bertero, Luca; Poli, Valeria; **Sanchez-Martinez, Melchor**; Menendez, Javier A; Soffietti, Riccardo; Bosch-Barrera, Joaquim; Valiente, Manuel. *Nat Med* , 2018"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/natmedstat3.jpg"
   date: "2018-06-11"
   journal: "Nat Med"
   doi: "10.1038/s41591-018-0044-4"
@@ -152,14 +144,12 @@
   pages: "1024-1035"
   year: "2018"
   pmid: "29892069"
-  pmcid: "nan"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
 
 
 
 - title: "Metformin directly targets the H3K27me3 demethylase KDM6A/UTX."
   citation: "Cuyàs, Elisabet; Verdura, Sara; Llorach-Pares, Laura; Fernández-Arroyo, Salvador; Luciano-Mateo, Fedra; Cabré, Noemí; Stursa, Jan; Werner, Lukas; Martin-Castillo, Begoña; Viollet, Benoit; Neuzil, Jiri; Joven, Jorge; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**; Menendez, Javier A. *Aging Cell* , 2018"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/agingcell.png"
   date: "2018-05-08"
   journal: "Aging Cell"
   doi: "10.1111/acel.12772"
@@ -169,13 +159,13 @@
   year: "2018"
   pmid: "29740925"
   pmcid: "PMC6052472"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/acel.12772"
 
 
 
 - title: "Silibinin is a direct inhibitor of STAT3."
   citation: "Verdura, Sara; Cuyàs, Elisabet; Llorach-Parés, Laura; Pérez-Sánchez, Almudena; Micol, Vicente; Nonell-Canals, Alfons; Joven, Jorge; Valiente, Manuel; Sánchez-Martínez, Melchor; Bosch-Barrera, Joaquim; Menendez, Javier A. *Food Chem Toxicol* , 2018"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/silibinindirectstat3.jpg"
   date: "2018-04-14"
   journal: "Food Chem Toxicol"
   doi: "10.1016/j.fct.2018.04.028"
@@ -184,14 +174,12 @@
   pages: "161-172"
   year: "2018"
   pmid: "29660364"
-  pmcid: "nan"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
 
 
 
 - title: "Extra-virgin olive oil contains a metabolo-epigenetic inhibitor of cancer stem cells."
   citation: "Corominas-Faja, Bruna; Cuyàs, Elisabet; Lozano-Sánchez, Jesús; Cufí, Sílvia; Verdura, Sara; Fernández-Arroyo, Salvador; Borrás-Linares, Isabel; Martin-Castillo, Begoña; Martin, Ángel G; Lupu, Ruth; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**; Micol, Vicente; Joven, Jorge; Segura-Carretero, Antonio; Menendez, Javier A. *Carcinogenesis* , 2018"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/m_bgy02035.jpeg"
   date: "2018-04-01"
   journal: "Carcinogenesis"
   doi: "10.1093/carcin/bgy023"
@@ -201,23 +189,22 @@
   year: "2018"
   pmid: "29452350"
   pmcid: "PMC5888987"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://watermark.silverchair.com/bgy023.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqEwggKdBgkqhkiG9w0BBwagggKOMIICigIBADCCAoMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzRk5CePijEfy5kNWAgEQgIICVLdzWKDXpVASHDIlv9R-mqlfUg0RfUxTyta3imw39iRI1DxJ9QzRDMnLSVu5ygRBYp_W7sZ9yFaB94-oHJ2fs8G84kK1cDthJf0-oZ5AIFmDEIBW3GHjBrMvM0dYoLVDH-3ZdfcdR1wRxVmVXYVZQEHqQ5g0TQFm8uqekssKWnMfe2mbHhEiVEr4CASDB2dUuLQh0kluo5LRwBW2HD38b47oKNWnuTDOhuvHMw5aGrGmpL4H2o7pVur788Y8-ow_q8Fy4X5AoHe10VxjdR6dbDURCrlDPoARkssCXKAUhpsx6Us27SMc9Kb_X9xo0yl0D3VdNYyHdbVQ4rrQpkRJd3GKxR9mcxZucp0Si84ZgU5LOl-TRfYY6AHoarbCuIXk_hCpRvNA2CfV-eKSm3iSd0n8MR0vaX_3_pToZ60fjRemMmObGvYAd69ID81K4lfuXNc6tTytOZKoATJMmfqDpXA48gzhKOFTDAbel2qIAIMY4IEPvBdkQf03v9LMjs4KjV5bLsofd7OXjLjvzFW7V8oYUk9TSj1TEqFfFbnQPrJ5YdGFlHEVfuV0a84T3l8O227xhVsDaRIBiXolLCr-4XY9IFaWwjm9yc5xjfYxa8uwtOWeMmPEbivkhU2vYQQX3hxUXpG-wpXENm80zXo5P9-RHM8HybwC3ujxSKMM5BF_9l1azQpdaIONSmZo__-vtKn9DnWR29_kPRdfQfm3nkGIQPpMplt4TQP-VZna4HV3Ujj85tBYf3V4mE5nwqWtFYcaHipKYU245mQfsoUFEF3hJLVD"
 
 
 
 - title: "Computer-Aided Drug Design Applied to Marine Drug Discovery: Meridianins as Alzheimer's Disease Therapeutic Agents."
   citation: "Llorach-Pares, Laura; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor***; Avila, Conxita*. *Mar Drugs* , 2017"
-  image: "/static/img/pub/xxx.png"
+  image: "/static/img/pub/meridianins.jpg"
   date: "2017-11-27"
   journal: "Mar Drugs"
   doi: "10.3390/md15120366"
   volume: "15"
   issue: "12"
-  pages: "nan"
   year: "2017"
   pmid: "29186912"
   pmcid: "PMC5742826"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://www.mdpi.com/1660-3397/15/12/366/htm"
 
 
 
