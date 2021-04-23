@@ -90,7 +90,7 @@
 
 - title: "An olive oil phenolic is a new chemotype of mutant isocitrate dehydrogenase 1 (IDH1) inhibitors."
   citation: "Verdura, Sara; Cuyàs, Elisabet; Lozano-Sánchez, Jesús; Bastidas-Velez, Cristian; Llorach-Parés, Laura; Fernández-Arroyo, Salvador; Hernández-Aguilera, Anna; Joven, Jorge; Nonell-Canals, Alfons; Bosch-Barrera, Joaquim; Martin-Castillo, Begoña; Vellon, Luciano; **Sanchez-Martinez, Melchor**; Segura-Carretero, Antonio; Menendez, Javier A. *Carcinogenesis* , 2019"
-  image: "/static/img/pub/idh1.jpeg"
+  image: "/static/img/pub/"
   date: "2019-03-01"
   journal: "Carcinogenesis"
   doi: "10.1093/carcin/bgy159"
@@ -105,7 +105,7 @@
 
 - title: "Metformin Is a Direct SIRT1-Activating Compound: Computational Modeling and Experimental Validation."
   citation: "Cuyàs, Elisabet; Verdura, Sara; Llorach-Parés, Laura; Fernández-Arroyo, Salvador; Joven, Jorge; Martin-Castillo, Begoña; Bosch-Barrera, Joaquim; Brunet, Joan; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**; Menendez, Javier A. *Front Endocrinol (Lausanne)* , 2018"
-  image: "/static/img/pub/metforfrontiers.jpg"
+  image: "/static/img/pub/metforforntiers.jpg"
   date: "2018-11-06"
   journal: "Front Endocrinol (Lausanne)"
   doi: "10.3389/fendo.2018.00657"
