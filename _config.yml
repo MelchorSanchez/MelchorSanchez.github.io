@@ -12,3 +12,9 @@ highlighter: rouge
 markdown: kramdown
 kramdown: 
   parse_block_html: true
+
+collections:
+        bio:
+                output: true
+        publications:
+                output: true
