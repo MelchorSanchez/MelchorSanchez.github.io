@@ -7,12 +7,9 @@ group: home
 <!-- Home -->
 <div
   class="bg-image p-5 text-center shadow-1-strong rounded mb-5 text-white"
-  style="background-image: url('/static/img/compnag.png');"
+  style="background-image: url('/static/img/compnag.png'); height:100vh;"
 >
-  <h1 class="text-center">Melchor Sanchez-Martinez, PhD</h1>
-  
-  <h2 class="text-center">Website under construction</h2>
-  <img src="/static/img/giphy.gif" class="img-fluid center-block max-width: 100%; height: auto"/>
+  <h1 class="mb-3 h2">Melchor Sanchez-Martinez, PhD</h1>
 
 </div>
 <!-- Home -->
