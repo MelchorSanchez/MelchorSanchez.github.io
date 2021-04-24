@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/compnag.png" class="img-fluid max-width: 100%; height: 100%; padding: 0px;
+<img src="/static/img/compnagbig2.png" class="img-fluid max-width: 100%; height: 100%; padding: 0px;
 margin: 0px;"/>
 
 <h1 class="text-center">Melchor Sanchez-Martinez, Ph.D.</h1>
