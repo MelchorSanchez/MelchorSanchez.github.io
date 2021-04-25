@@ -25,6 +25,6 @@ I would be happy to discuss anything related to my research, the topics covered 
  <input type="text" name="Name" placeholder="Your name"  data-validate-field="Name" required=False display="block">
  <input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required=True display="block">
  <textarea name="message" class="fcf-form-control" placeholder="Type your message" required=True></textarea>
- <button type="submit" style="background-color:darkgray; color:white; border:3px solid darkgray; border-radius: 8px" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block" left="50%">Submit</button>
+ <button type="submit" style="background-color:darkgray; color:white; border:3px solid darkgray; border-radius: 8px" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">**Submit**</button>
 </form>
 </div>
