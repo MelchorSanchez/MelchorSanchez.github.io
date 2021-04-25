@@ -21,9 +21,9 @@ I would be happy to discuss anything related to my research, the topics covered 
 
 <div style="width:210px;height:210px;border:3px solid gray; border-radius: 8px;background-color:gray;" display="flex;" justify-content="center;">
 <form action="https://formspree.io/f/xqkwagda" method="POST" id="contact-form">
- </label><input type="hidden" name="_subject" value="Contact request from personal website"></label>
- </label><input type="text" name="Name" placeholder="Your name"  data-validate-field="Name" required=True></label>
-  </label><input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required=True> </label>
+ <label><input type="hidden" name="_subject" value="Contact request from personal website"></label>
+ <label><input type="text" name="Name" placeholder="Your name"  data-validate-field="Name" required=True></label>
+  <label><input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required=True> </label>
  <textarea name="message" class="fcf-form-control" placeholder="Type your message" required=True></textarea>
  <button type="submit" style="background-color:blue; color:white; border:3px solid blue; border-radius: 8px" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block" left="50%">Submit</button>
 </form>
