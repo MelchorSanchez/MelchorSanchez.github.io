@@ -19,12 +19,12 @@ You can also find me online at [twitter](http://twitter.com/melsanm), [linkedin]
 I would be happy to discuss anything related to my research, the topics covered in the blog or something with that I am experienced. I would be also happy to share anything from my research that can be make public and is not available on public sources.  If I can help you, just tell me!<br><br>
 </p>
 
-<div style="width:200px;height:175px;border:2px solid gray; border-radius: 5px;background-color:gray;">
+<div style="width:210px;height:175px;border:2px solid gray; border-radius: 5px;background-color:gray;">
 <form action="https://formspree.io/f/xqkwagda" method="POST" id="contact-form">
  <input type="hidden" name="_subject" value="Contact request from personal website">
- <input type="text" name="Name" placeholder="Your name"  data-validate-field="Name">
- <input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required>
- <textarea name="message" class="fcf-form-control" placeholder="Type your message" required></textarea>
+ <input type="text" name="Name" placeholder="Your name"  data-validate-field="Name" required=False></textarea>
+ <input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required=True></textarea>
+ <textarea name="message" class="fcf-form-control" placeholder="Type your message" required=True></textarea>
  <button type="submit" style="background-color:lightblue; color:white; border-radius: 5px" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Submit</button>
 </form>
 </div>
