@@ -19,7 +19,7 @@ You can also find me online at [twitter](http://twitter.com/melsanm), [linkedin]
 I would be happy to discuss anything related to my research, the topics covered in the blog or something with that I am experienced. I would be also happy to share anything from my research that can be make public and is not available on public sources.  If I can help you, just tell me!<br><br>
 </p>
 
-<div style="width:210px;height:175px;border:3px solid gray; border-radius: 8px;background-color:gray;">
+<div style="width:210px;height:175px;border:3px solid gray; border-radius: 8px;background-color:gray;" display="flex;" justify-content="center;">
 <form action="https://formspree.io/f/xqkwagda" method="POST" id="contact-form">
  <input type="hidden" name="_subject" value="Contact request from personal website">
  <p><br></p>
