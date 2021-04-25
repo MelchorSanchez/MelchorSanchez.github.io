@@ -16,9 +16,10 @@ You can also find me online at [twitter](http://twitter.com/melsanm), [linkedin]
 I would be happy to discuss anything related to my research, the topics covered in the blog or something with that I am experienced or that I can help. I would be also happy to share anything from my research that can be make public and is not available on public sources.  If I can help you, just tell me!<br><br>
 </p>
 
-<div style="width:250px;height:250px;border:2px solid #000;background-color:blue">
+<div style="width:200px;height:150px;border:2px solid #000;background-color:blue;lin-color:blue">
 <form action="https://formspree.io/f/xqkwagda" method="POST" id="contact-form">
  <input type="hidden" name="_subject" value="Contact request from personal website" />
+ <input type="text" id="Name" name="Name" class="fcf-form-control" data-validate-field="Name">
  <input type="email" name="_replyto" placeholder="Your email" required>
  <textarea name="message" placeholder="Type your message" required></textarea>
  <button type="submit" style="background-color:black;color:white">Submit</button>
