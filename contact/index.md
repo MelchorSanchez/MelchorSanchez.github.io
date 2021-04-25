@@ -21,7 +21,7 @@ I would be happy to discuss anything related to my research, the topics covered 
 
 <div style="width:250px;height:250px;border:2px solid gray; border-radius: 5px;background-color:gray;">
 <form action="https://formspree.io/f/xqkwagda" method="POST" id="contact-form">
- <input type="hidden" name="_subject" value="Contact request from personal website" />
+ <input type="hidden" name="_subject" value="Contact request from personal website">
  <input type="text" name="Name" placeholder="Your name"  data-validate-field="Name">
  <input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required>
  <textarea name="message" class="fcf-form-control" placeholder="Type your message" required></textarea>
