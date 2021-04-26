@@ -1,19 +1,19 @@
-- name: home
+- name: Home
   url: /
   group: home
 
-- name: bio
+- name: Bio
   url: /bio
   group: bio
 
-- name: publications
+- name: Publications
   url: /publications
   group: publications
 
-- name: blog
+- name: Blog
   url: /blog
   group: blog
 
-- name: contact
+- name: Contact
   url: /contact
   group: contact
