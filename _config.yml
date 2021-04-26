@@ -53,13 +53,5 @@ collections:
   #disqus_shortname: melchor_sanchez
   #katex: true # Enable if using math markup
 
-  special_page:
-    search:
-      icon: "search" # Assuming page link and icon are the same
-      enabled: true
-    tags:
-      icon: "tags"
-      enabled: true
-
   # Post navigation
   post_navigation: true
