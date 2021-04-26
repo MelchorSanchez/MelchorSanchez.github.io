@@ -1,6 +1,6 @@
 ---
 name: Blog
-layout: default
+layout: postfraser
 group: blog
 ---
 
@@ -18,9 +18,9 @@ group: blog
     {% endif %}
   </p>
   <div class="content">
-    
+
     {{ post.content | split:'<!--break-->' | first }}
-    
+
     {% if post.content contains '<!--break-->' %}
       <a href="{{ post.url }}">read more</a>
     {% endif %}
