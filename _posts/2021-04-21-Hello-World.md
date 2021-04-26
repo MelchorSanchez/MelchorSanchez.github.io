@@ -2,7 +2,8 @@
 title: Hello world!
 layout: post
 group: blog
-updated: 2021-04-21 21:00:00
+author : Melchor Sanchez-Martinez
+date: 2021-04-21
 ---
 
 I just finished (well... created, because right now it is under construction) my personal webpage!!. I had the idea of making a personal webpage since time ago.
