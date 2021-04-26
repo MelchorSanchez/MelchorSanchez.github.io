@@ -4,6 +4,8 @@ layout: post
 group: blog
 author : Melchor Sanchez-Martinez
 date: 2021-04-21
+comments: true 
+social-share: true
 ---
 
 I just finished (well... created, because right now it is under construction) my personal webpage!!. I had the idea of making a personal webpage since time ago.
