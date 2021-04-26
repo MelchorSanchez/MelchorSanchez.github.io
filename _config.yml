@@ -31,35 +31,3 @@ collections:
         publications:
                 output: true
 
-# Icons
-  #rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: sanchezmartinezmelchor@gmail.com # Full email address, e.g. "sam@example.com"
-  gitlab: msanmar
-  github: MelchorSanchez
-  linkedin: https://www.linkedin.com/in/melchorsanchezmartinez
-  twitter: melsanm
-  ORCID: 0000-0002-3674-8577
-
-  # Sharing options
-  share_buttons:
-    facebook: true
-    twitter: true
-    reddit: true
-    linkedin: true
-    email: true
-
-  # Scripts / Features
-  google_analytics: G-LNWFG3X1B7
-  disqus_shortname: melchor_sanchez
-  #katex: true # Enable if using math markup
-
-  special_page:
-    search:
-      icon: "search" # Assuming page link and icon are the same
-      enabled: true
-    tags:
-      icon: "tags"
-      enabled: true
-
-  # Post navigation
-  post_navigation: true
