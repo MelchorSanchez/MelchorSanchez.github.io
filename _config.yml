@@ -36,7 +36,7 @@ collections:
   email_address: sanchezmartinezmelchor@gmail.com # Full email address, e.g. "sam@example.com"
   gitlab: msanmar
   github: MelchorSanchez
-  linkedin: https://www.linkedin.com/in/azmirfakkri/ # Full URL
+  linkedin: https://www.linkedin.com/in/melchorsanchezmartinez
   twitter: melsanm
   ORCID: 0000-0002-3674-8577
 
@@ -49,9 +49,9 @@ collections:
     email: true
 
   # Scripts / Features
-  google_analytics: G-LNWFG3X1B7 # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: G-LNWFG3X1B7
   disqus_shortname: melchor_sanchez
-  katex: true # Enable if using math markup
+  #katex: true # Enable if using math markup
 
   special_page:
     search:
