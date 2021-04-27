@@ -1,7 +1,7 @@
 name: "Melchor Sanchez-Martinez"
 description: "The Personal Homepage for Melchor Sanchez-Martinez. A research scientist with experience in project management and science management, passionate about science writing, communication and dissemination"
-
 url: "http://msanchezmartinez.com"
+logo: 'favicon.ico'
 
 gems: [jekyll-paginate, jekyll-seo-tag]
 paginate: 5
@@ -31,8 +31,18 @@ collections:
         publications:
                 output: true
 
-# Icons
-  #rss: true  # Make sure you created a feed.xml with feed.xml layout
+# About/contact
+author:
+  name: Melchor Sanchez-Martinez
+  description: A <strong>research scientist with experience in project management and science management, passionate about science writing, communication and disseminationr</strong>.
+  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  contact:
+    twitter:   https://twitter.com/melsanm
+    linkedin:  https://www.linkedin.com/in/melchorsanchezmartinez
+    github:    https://github.com/MelchorSanchez
+    gitlab:    https://gitlab.com/msanmar
+    twitter:   https://twitter.com/Li_Zhihao
+    email:     sanchezmartinezmelchor@gmail.com
   #email_address: sanchezmartinezmelchor@gmail.com # Full email address, e.g. "sam@example.com"
   #gitlab: msanmar
   #github: MelchorSanchez
@@ -49,6 +59,9 @@ collections:
     #email: true
 
   # Scripts / Features
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
   #google_analytics: G-LNWFG3X1B7
   #disqus_shortname: melchor_sanchez
   #katex: true # Enable if using math markup
