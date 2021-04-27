@@ -5,7 +5,8 @@ group: blog
 comments: true
 author : Melchor Sanchez-Martinez
 date: 2021-04-21
-tags: First-Post Hello-world
+tags: [First_Post, Hello_world]
+category: Hello-world
 ---
 
 I just finished (well... created, because right now it is under construction) my personal webpage!!. I had the idea of making a personal webpage since time ago.
