@@ -17,7 +17,3 @@
 - name: Contact
   url: /contact
   group: contact
-
-- name: test
-  url: /test
-  group: test
