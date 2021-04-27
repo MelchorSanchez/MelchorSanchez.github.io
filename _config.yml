@@ -43,13 +43,7 @@ author:
     gitlab:    https://gitlab.com/msanmar
     twitter:   https://twitter.com/Li_Zhihao
     email:     sanchezmartinezmelchor@gmail.com
-  #email_address: sanchezmartinezmelchor@gmail.com # Full email address, e.g. "sam@example.com"
-  #gitlab: msanmar
-  #github: MelchorSanchez
-  #linkedin: https://www.linkedin.com/in/melchorsanchezmartinez
-  #twitter: melsanm
-  #ORCID: 0000-0002-3674-8577
-# Navigation (2nd level links supported)
+
 nav:
   Home:
     - '/'
@@ -66,20 +60,11 @@ nav:
 
 tags_page: '/blog/tags/'
 categories_page: '/blog/categories/'
+
+
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
-  # Sharing options
-  #share_buttons:
-    #facebook: true
-    #twitter: true
-    #reddit: true
-    #linkedin: true
-    #email: true
 
-  # Scripts / Features
-  #google_analytics_token: G-LNWFG3X1B7
-  #disqus_short_name: melchor_sanchez
-  #mathjax: true
-  #katex: true # Enable if using math markup
+
 excerpt_separator: '<!-- excerpt-end -->'
