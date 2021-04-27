@@ -59,6 +59,6 @@ author:
     #email: true
 
   # Scripts / Features
-  google_analytics: G-LNWFG3X1B7
-  disqus_shortname: melchor_sanchez
-  katex: true # Enable if using math markup
+  #google_analytics: G-LNWFG3X1B7
+  #disqus_shortname: melchor_sanchez
+  #katex: true # Enable if using math markup
