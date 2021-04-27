@@ -2,6 +2,7 @@
 title: Hello world!
 layout: post
 group: blog
+comments: true
 author : Melchor Sanchez-Martinez
 date: 2021-04-21
 ---
