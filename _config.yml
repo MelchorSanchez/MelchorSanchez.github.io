@@ -75,7 +75,7 @@ category_page: '/blog/categories/'
     #email: true
 
   # Scripts / Features
-  google_analytics_token: G-LNWFG3X1B7
-  disqus_short_name: melchor_sanchez
-  mathjax: true
+  #google_analytics_token: G-LNWFG3X1B7
+  #disqus_short_name: melchor_sanchez
+  #mathjax: true
   #katex: true # Enable if using math markup
