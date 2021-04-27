@@ -64,8 +64,8 @@ nav:
   Contact:
     - '/contact/'
 
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tags_page: '/blog/tags/'
+categories_page: '/blog/categories/'
   # Sharing options
   #share_buttons:
     #facebook: true
@@ -79,3 +79,4 @@ category_page: '/blog/categories/'
   #disqus_short_name: melchor_sanchez
   #mathjax: true
   #katex: true # Enable if using math markup
+excerpt_separator: '<!-- excerpt-end -->'

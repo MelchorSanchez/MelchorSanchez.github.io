@@ -6,10 +6,10 @@ comments: true
 author : Melchor Sanchez-Martinez
 date: 2021-04-21
 tags: [First_Post, Hello_world]
-category: Hello-world
+categories: [Hello-world]
 ---
-
-I just finished (well... created, because right now it is under construction) my personal webpage!!. I had the idea of making a personal webpage since time ago.
+<!-- excerpt-start -->
+I just finished (well... created, because right now it is under construction) my personal webpage!!. I had the idea of making a personal webpage since time ago.<!-- excerpt-end -->
 
 Around one year ago I started a WordPress that never went public. However recently I found a Github repo from Benjamin Barad ([bbarad.github.io]('https://github.com/bbarad/bbarad.github.io')) that easily allow you to create your own webpage, using Github pages, making a fork from his repo. He even give you instruction about how to do it. In a really few time my webpage was ready. Thank you Benjamin!
 
