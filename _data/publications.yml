@@ -16,14 +16,13 @@
 
 
 - title: "Meridianins and Lignarenone B as Potential GSK3β Inhibitors and Inductors of Structural Neuronal Plasticity."
-  citation: "Llorach-Pares, Laura; Rodriguez-Urgelles, Ened; Nonell-Canals, Alfons; Alberch, Jordi; Avila, Conxita; **Sanchez-Martinez, Melchor***; Giralt, Albert*. *Biomolecules* , 2020"
+  citation: "Llorach-Pares, Laura; Rodriguez-Urgelles, Ened; Nonell-Canals, Alfons; Alberch, Jordi; Avila, Conxita; **Sanchez-Martinez, Melchor**; Giralt, Albert. *Biomolecules* , 2020"
   image: "/static/img/pub/biomolecules2020_2.png"
   date: "2020-04-21"
   journal: "Biomolecules"
   doi: "10.3390/biom10040639"
   volume: "10"
   issue: "4"
-  year: "2020"
   pmid: "32326204"
   pmcid: "PMC7226462"
   pdf: "https://www.mdpi.com/2218-273X/10/4/639/htm"
@@ -119,7 +118,7 @@
 
 
 - title: "Kororamides, Convolutamines, and Indole Derivatives as Possible Tau and Dual-Specificity Kinase Inhibitors for Alzheimer's Disease: A Computational Study."
-  citation: "Llorach-Pares, Laura; Nonell-Canals, Alfons; Avila, Conxita*; **Sanchez-Martinez, Melchor***. *Mar Drugs* , 2018"
+  citation: "Llorach-Pares, Laura; Nonell-Canals, Alfons; Avila, Conxita; **Sanchez-Martinez, Melchor**. *Mar Drugs* , 2018"
   image: "/static/img/pub/kororamides.jpg"
   date: "2018-10-16"
   journal: "Mar Drugs"
@@ -194,7 +193,7 @@
 
 
 - title: "Computer-Aided Drug Design Applied to Marine Drug Discovery: Meridianins as Alzheimer's Disease Therapeutic Agents."
-  citation: "Llorach-Pares, Laura; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor***; Avila, Conxita*. *Mar Drugs* , 2017"
+  citation: "Llorach-Pares, Laura; Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**; Avila, Conxita. *Mar Drugs* , 2017"
   image: "/static/img/pub/meridianins.jpg"
   date: "2017-11-27"
   journal: "Mar Drugs"

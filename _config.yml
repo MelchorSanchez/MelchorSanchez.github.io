@@ -3,7 +3,7 @@ description: "The Personal Homepage for Melchor Sanchez-Martinez. A research sci
 url: "http://msanchezmartinez.com"
 logo: 'favicon.ico'
 
-gems: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag]
 paginate: 5
 paginate_path: "blog/page:num"
 
@@ -66,6 +66,9 @@ nav:
 
 tags_page: '/blog/tags/'
 categories_page: '/blog/categories/'
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
   # Sharing options
   #share_buttons:
     #facebook: true
