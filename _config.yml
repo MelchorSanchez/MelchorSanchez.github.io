@@ -1,7 +1,7 @@
 name: "Melchor Sanchez-Martinez"
 description: "The Personal Homepage for Melchor Sanchez-Martinez. A research scientist with experience in project management and science management, passionate about science writing, communication and dissemination"
 url: "http://msanchezmartinez.com"
-logo: 'favicon.ico'
+logo: 'avatar.png'
 
 plugins: [jekyll-paginate, jekyll-seo-tag]
 paginate: 5
