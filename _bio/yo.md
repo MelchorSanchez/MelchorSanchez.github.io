@@ -1,6 +1,6 @@
 ---
 name: Melchor Sanchez Martinez, Ph.D.
-image: /static/img/bio/yo-large.png
+image: /static/img/bio/yo-large.webp
 position1: Senior Research Scientist
 position2: Course Instructor
 email: sanchezmartinezmelchor (at) gmail.com
