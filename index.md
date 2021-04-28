@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/compnag.webp" class="img-responsive width: 1200px; height: 500px"/>
+<img src="/static/img/compnag.webp" class="img-responsive max-width: 100%; height: auto"/>
 
 <h1 class="text-center">Melchor Sanchez-Martinez, Ph.D.</h1>
 
