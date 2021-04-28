@@ -31,7 +31,7 @@
 
 - title: "A Novel Agonist of the Type 1 Lysophosphatidic Acid Receptor (LPA<sub>1</sub>), UCM-05194, Shows Efficacy in Neuropathic Pain Amelioration."
   citation: "González-Gil, Inés; Zian, Debora; Vázquez-Villa, Henar; Hernández-Torres, Gloria; Martínez, R Fernando; Khiar-Fernández, Nora; Rivera, Richard; Kihara, Yasuyuki; Devesa, Isabel; Mathivanan, Sakthikumar; Del Valle, Cristina Rosell; Zambrana-Infantes, Emma; Puigdomenech, María; Cincilla, Giovanni; **Sanchez-Martinez, Melchor**; Rodríguez de Fonseca, Fernando; Ferrer-Montiel, Antonio V; Chun, Jerold; López-Vales, Rubén; López-Rodríguez, María L; Ortega-Gutiérrez, Silvia. *J Med Chem* , 2019"
-  image: "/static/img/pub/xxx.webp"
+  image: "/static/img/pub/jm9b01287_0023.webp"
   date: "2019-12-16"
   journal: "J Med Chem"
   doi: "10.1021/acs.jmedchem.9b01287"
@@ -54,8 +54,6 @@
   pages: "110529"
   year: "2019"
   pmid: "31150784"
-  pmcid: "nan"
-
 
 
 - title: "Extra Virgin Olive Oil Contains a Phenolic Inhibitor of the Histone Demethylase LSD1/KDM1A."
@@ -89,7 +87,7 @@
 
 - title: "An olive oil phenolic is a new chemotype of mutant isocitrate dehydrogenase 1 (IDH1) inhibitors."
   citation: "Verdura, Sara; Cuyàs, Elisabet; Lozano-Sánchez, Jesús; Bastidas-Velez, Cristian; Llorach-Parés, Laura; Fernández-Arroyo, Salvador; Hernández-Aguilera, Anna; Joven, Jorge; Nonell-Canals, Alfons; Bosch-Barrera, Joaquim; Martin-Castillo, Begoña; Vellon, Luciano; **Sanchez-Martinez, Melchor**; Segura-Carretero, Antonio; Menendez, Javier A. *Carcinogenesis* , 2019"
-  image: "/static/img/pub/"
+  image: "/static/img/pub/idh1.webp"
   date: "2019-03-01"
   journal: "Carcinogenesis"
   doi: "10.1093/carcin/bgy159"
@@ -98,7 +96,6 @@
   pages: "27-40"
   year: "2019"
   pmid: "30428017"
-  pmcid: "nan"
 
 
 
