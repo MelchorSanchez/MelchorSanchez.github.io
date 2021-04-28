@@ -206,7 +206,7 @@
 
 - title: "Machine-Learning QSAR Model for Predicting Activity against Malaria Parasite’s Ion Pump PfATP4 and In Silico Binding Assay Validation."
   citation: "Angela Lopez-Del Rio , Laura Llorach-Pares , Alexandre Perera-Lluna , Conxita Avila , Alfons Nonell-Canals, **Sanchez-Martinez, Melchor**. *Proceedings* , 2017"
-  image: "/static/img/pub/xxx.webp"
+  image: "/static/img/pub/DRfogjfXkAANapN.webp"
   date: "2017-10-18"
   journal: "Proceedings"
   doi: "10.3390/proceedings1060652"
@@ -220,7 +220,7 @@
 
 - title: "Amyloid-induced β-cell dysfunction and islet inflammation are ameliorated by 4-phenylbutyrate (PBA) treatment."
   citation: "de Pablo, Sara; Montane, Joel; Castaño, Carlos; Rodríguez-Comas, Alcarraz-Vizán, Gema; **Sanchez-Martinez, Melchor**; Nonell-Canals, Alfons; Servitja, Joan-Marc; Novials, Anna. *FASEB J.* , 2016"
-  image: "/static/img/pub/xxx.webp"
+  image: "/static/img/pub/fsb2fj201700236r-fig-0006-m.webp"
   date: "2017-08-15"
   journal: "FASEB J"
   doi: "10.1096/fj.201700236r"
@@ -230,12 +230,12 @@
   year: "2017"
   pmid: "28821639"
   pmcid: "PMC5690378"
-  #  pdf: "https://www.aging-us.com/article/202154/pdf"
+  pdf: "https://faseb.onlinelibrary.wiley.com/doi/epdf/10.1096/fj.201700236R"
 
 
 - title: "Treatment with chemical chaperone 4-phenylbutyrate restores glucose metabolism in mice overexpressing human islet amyloid polypeptide."
   citation: "Montane, Joel; de Pablo, Sara; Castaño, Carlos; Rodríguez-Comas, Júlia; Cadavez, Lisa; Obach, Mercè; Visa, Montse; Alcarraz-Vizán, Gema; **Sanchez-Martinez, Melchor**; Nonell-Canals, Alfons; Parrizas, Marcelina; Servitja, Joan-Marc; Novials, Anna. *Diabetologia* , 2017"
-  image: "/static/img/pub/xxx.webp"
+  image: "/static/img/pub/fsb2fj201700236r-fig-0005-m.webp"
   date: "2016-08-1"
   journal: "Diabetologia"
   doi: "10.1007/s00125-016-4046-9"
@@ -248,7 +248,7 @@
 
 - title: "Intrinsically Disordered Proteins as Drug Targets."
   citation: "Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**. *MOJ Proteomics and Bioinform.* , 2017"
-  image: "/static/img/pub/xxx.webp"
+  image: "/static/img/pub/profasi.webp"
   date: "2017-03-10"
   journal: "MOJ Proteomics and Bioinform"
   doi: "10.15406/mojpb.2017.05.00157"
@@ -256,13 +256,13 @@
   issue: "2"
   pages: "69-73"
   year: "2017"
-  pdf: ""
+  pdf: "https://medcraveonline.com/MOJPB/MOJPB-05-00157.pdf"
 
 
 
 - title: "Enzymatic minimum free energy path calculations using swarms of trajectories."
   citation: "**Sanchez-Martinez, Melchor**; Field, Martin; Crehuet, Ramon. *J Phys Chem B* , 2014"
-  image: "/static/img/pub/xxx.webp"
+  image: "/static/img/pub/jp-2014-06593t_0015.webp"
   date: "2014-10-17"
   journal: "J Phys Chem B"
   doi: "10.1021/jp506593t"
