@@ -7,7 +7,7 @@ group: contact
 
 <p class="text-justify">
 
-The easiest way to get in touch with me is by [email]('mailto:sanchezmartinezmelchor@gmail.com), although you can just drop me a message through the contact form.<br>
+The easiest way to get in touch with me is by [email]('mailto:sanchezmartinezmelchor .at. gmail.com), although you can just drop me a message through the contact form.<br>
 </p>
 
 <p class="text-justify">
