@@ -11,17 +11,21 @@ body {
   background-attachment: fixed;
   background-size: 0px 0px;
   background-color: #fff;
-  -webkit-background-size: calc(100vw) calc(80vh);
-  -moz-background-size: calc(100vw) calc(80vh);
-  -o-background-size: calc(100vw) calc(80vh);
-  background-size: calc(100vw) calc(80vh);
+  -webkit-background-size: calc(100vw) calc(100vh);
+  -moz-background-size: calc(100vw) calc(100vh);
+  -o-background-size: calc(100vw) calc(100vh);
+  background-size: calc(100vw) calc(100vh);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 </style>
 
 <!-- <img src="/static/img/compnag.webp" class="img-responsive max-width: 100%; height: auto"/> -->
 
 
-<h1 class="text-center" style="color:black;font-size:4vw; position:absolute; bottom:72.5px;">Melchor Sanchez-Martinez, PhD</h1>
+<h1 class="text-center" style="color:white;font-size:4vw; position:absolute; bottom:72.5px;">**Melchor Sanchez-Martinez, PhD**</h1>
 
 <h2 class="text-left" style="color:white;bottom:8px;left:16px">Website under construction</h2>
 
