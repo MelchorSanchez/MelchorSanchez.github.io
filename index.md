@@ -11,10 +11,10 @@ body {
   background-attachment: fixed;
   background-size: 0px 0px;
   background-color: #fff;
-  -webkit-background-size: calc(100vw) calc(100vh);
-  -moz-background-size: calc(100vw) calc(100vh);
-  -o-background-size: calc(100vw) calc(100vh);
-  background-size: calc(100vw) calc(100vh);
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
