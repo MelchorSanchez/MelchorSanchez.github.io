@@ -9,7 +9,12 @@ body {
   background-image: url('/static/img/compnag.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100vw 80%;
+  background-size: 0px 0px;
+  background-color: #fff;
+  -webkit-background-size: calc(100vw) calc(80vh);
+  -moz-background-size: calc(100vw) calc(80vh);
+  -o-background-size: calc(100vw) calc(80vh);
+  background-size: calc(100vw) calc(80vh);
 }
 </style>
 
