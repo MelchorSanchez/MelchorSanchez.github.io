@@ -11,9 +11,15 @@ group: bio
             <div class="col-sm-4">
                 <img class="img-responsive max-width:100%; height:auto" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
                 <strong>{{member.name}}</strong> <br>
-                {{member.position1}} <br>
-                {{member.position2}} <br>
                 <em>{{member.email}}</em> <br>
+                {% if member.position1 %}
+                  <a href="http://www.molomics.com"><img class="inline-block mem-icon" src="/static/img/molomics.webp"></a>
+                  {{member.position1}} <br>
+                {% endif %}
+                {% if member.position2 %}
+                  <a href="http://www.uoc.edu"><img class="inline-block mem-icon" src="/static/img/uoclogo.webp"></a>
+                  {{member.position2}} <br>
+                {% endif %}
                 {% if member.orcid %}
                   <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logos/orcidid_logo.svg"></a>
                   <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>

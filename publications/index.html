@@ -49,8 +49,9 @@ group: publications
               {% endif %}
 
               <!-- PDF -->
+              {% if publication.pdf %}
               <li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
-
+              {% endif %}
               <!-- Datasets - optional -->
               {% if publication.data %}
               <li>Online Dataset{% if publication.data.size > 1 %}s{% endif %}:
@@ -104,7 +105,11 @@ group: publications
 
               <!--GITHUB-->
               {% if publication.github %}
-              <li>DOI: <a href="https://github.com/{{publication.github}}" alt = "github link: {{publication.github}}"> {{publication.doi}}</a></li>
+              <a href="https://github.com/{{publication.github}}" alt = "github link: {{publication.github}}"> {{publication.github}}</a></li>
+              {% endif %}
+              <!--GITLAB-->              
+              {% if publication.gitlab %}
+              <a href="https://gitlab.com/{{publication.gitlab}}" alt = "gitlab link: {{publication.gitlab}}"> {{publication.gitlab}}</a></li>
               {% endif %}
 
 
