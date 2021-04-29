@@ -25,7 +25,7 @@ body {
 <!-- <img src="/static/img/compnag.webp" class="img-responsive max-width: 100%; height: auto"/> -->
 
 
-<h1 class="text-center" style="color:white;font-size:4vw; position:absolute; bottom:72.5px;">**Melchor Sanchez-Martinez, PhD**</h1>
+<h1 class="text-center" style="color:white;font-size:calc(1em + 3vw); position:absolute; bottom:72.5px;">**Melchor Sanchez-Martinez, PhD**</h1>
 
 <h2 class="text-left" style="color:white;bottom:8px;left:16px">Website under construction</h2>
 
