@@ -243,8 +243,10 @@
   issue: "S1"
   pages: "S280"
   year: "2016"
-
-
+  pdf: "https://link.springer.com/content/pdf/10.1007/s00125-016-4046-9.pdf"
+  links:
+  - name: ePoster
+    url:  https://www.easd.org/virtualmeeting/home.html#!resources/treatment-with-chemical-chaperone-4-phenylbutyrate-restores-glucose-metabolism-in-mice-overexpressing-human-islet-amyloid-polypeptide-fb7cee27-929c-4047-a5e7-9f4e8c3300f2
 
 - title: "Intrinsically Disordered Proteins as Drug Targets."
   citation: "Nonell-Canals, Alfons; **Sanchez-Martinez, Melchor**. *MOJ Proteomics and Bioinform.* , 2017"
@@ -292,6 +294,7 @@
   citation: "Marcos, Enrique; **Sanchez-Martinez, Melchor**; Crehuet, Ramon. in *Computational Approaches to Protein Dynamics* , *CRC Press*, 2014"
   image: "/static/img/pub/book.webp"
   date: "2014-12-24"
+  doi:  "10.1201/b17979"
   book: "Computational Approaches to Protein Dynamics"
   chapter: "4"
   pages: "154-179"
