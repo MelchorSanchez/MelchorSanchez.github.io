@@ -23,7 +23,7 @@ body {
 
 <p class="text-justify" style="font-size:120%;">
 
-The easiest way to get in touch with me is by [email]('mailto:melchor .at. msanchezmartinez.com), although you can just drop me a message through the contact form.<br>
+The easiest way to get in touch with me is by [email](mailto:melchor .at. msanchezmartinez.com), although you can just drop me a message through the contact form.<br>
 </p>
 
 <p class="text-justify" style="font-size:120%;">
