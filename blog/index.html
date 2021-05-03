@@ -5,7 +5,8 @@ group: blog
 ---
 
 <div style="display:inline-block;margin-left;">
-    Browse by <a href="/blog/categories/">Category</a> or <a href="/blog/tags/">Tag</a>
+    <!--- Browse by <a href="/blog/categories/">Category</a> or <a href="/blog/tags/">Tag</a --->
+    Browse by <a href="/blog/tags/">Tag</a>
 </div>
 
 <br/><br/>
@@ -22,12 +23,12 @@ group: blog
       <a class="codinfox-tag-mark" href="/blog/tags/#{{ tags | slugify }}">{{ tag }}</a>
       {% endfor %}
       {% endif %}
-      {% if post.categories %}
+      <!-- {% if post.categories %}
       |
       {% for category in post.categories %}
       <a class="codinfox-category-mark" href="/blog/categories/#{{ categories | slugify }}">{{ category }}</a>
       {% endfor %}
-      {% endif %}
+      {% endif %} -->
       </span>
     {% else %}
       <span class="date"><em>{{ post.date | date_to_long_string }}</em>
@@ -36,13 +37,13 @@ group: blog
         <a class="codinfox-tag-mark" href="/blog/tags/#{{ tags | slugify }}">{{ tag }}</a>
         {% endfor %}
         {% endif %}
-        {% if post.categories != empty %}
+        <!-- {% if post.categories != empty %}
         |
         {% for category in post.categories %}
         <a class="codinfox-category-mark" href="/blog/categories/#{{ tags | slugify }}">{{ category }}</a>
         {% endfor %}
         {% endif %}
-        </span>
+        </span> -->
     {% endif %}
   </p>
   <div class="content">
