@@ -69,8 +69,8 @@ learn a little bit of html, css and bootstrap to customize the contact form, tag
         <ul class="list-inline">
         <li class="footer-inverse"><a href="mailto:your-email"><i class="fa fa-envelope fa-2x"></i></a></li>
         <li class="footer-inverse"><a href="https://linkedin.com/in/your-linkedin-page"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
-        <li class="footer-inverse"><a href="https://twitter.com/your-twitter-ig"><i class="fa fa-twitter fa-2x"></i></a></li>
-        <li class="footer-inverse"><a href="https://github.com/your-github-idz"><i class="fa fa-github fa-2x"></i></a></li>
+        <li class="footer-inverse"><a href="https://twitter.com/your-twitter-id"><i class="fa fa-twitter fa-2x"></i></a></li>
+        <li class="footer-inverse"><a href="https://github.com/your-github-id"><i class="fa fa-github fa-2x"></i></a></li>
         <li class="footer-inverse"><a href="https://gitlab.com/your-gitlab-id"><i class="fa fa-gitlab fa-2x"></i></a></li>
         </ul>
     </div>
