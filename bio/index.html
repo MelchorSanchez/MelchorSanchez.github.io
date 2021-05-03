@@ -29,14 +29,6 @@ group: bio
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logos/lin_logo.webp" width="25" height="25"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
                 {% endif %}
-                {% if member.publons %}
-                  <a href="http://www.publons.com"><img class="inline-block mem-icon" src="/static/img/logos/publons_logo.webp" width="25" height="25"></a>
-                  <a href= "https://publons.com/researcher/{{member.publons}}"> Profile </a> <br>
-                {% endif %}
-                {% if member.researchgate %}
-                  <a href="https://www.researchgate.net"><img class="inline-block mem-icon" src="/static/img/logos/researchgate_logo.webp" width="25" height="25"></a>
-                  <a href= "https://www.researchgate.net/profile/{{member.publons}}"> Profile </a> <br>
-                {% endif %}
                 {% if member.scholar %}
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logos/gscholar_logo.webp" width="25" height="25"></a>
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
@@ -52,6 +44,14 @@ group: bio
                 {% if member.gitlab %}
                   <a href="http://gitlab.com"><img class="inline-bloc mem-icon" src="/static/img/logos/gitlab_logo.webp" width="25" height="25"></a>
                   <a href= "http://gitlab.com/{{member.github}}"> {{member.gitlab}} </a> <br>
+                {% endif %}
+                {% if member.publons %}
+                  <a href="http://www.publons.com"><img class="inline-block mem-icon" src="/static/img/logos/publons_logo.webp" width="25" height="25"></a>
+                  <a href= "https://publons.com/researcher/{{member.publons}}"> Profile </a> <br>
+                {% endif %}
+                {% if member.researchgate %}
+                  <a href="https://www.researchgate.net"><img class="inline-block mem-icon" src="/static/img/logos/researchgate_logo.webp" width="25" height="25"></a>
+                  <a href= "https://www.researchgate.net/profile/{{member.publons}}"> Profile </a> <br>
                 {% endif %}
             </div>
             <div class="col-sm-8">
