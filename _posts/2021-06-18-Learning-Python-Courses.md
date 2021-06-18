@@ -14,7 +14,7 @@ As a course instructor of python, when the course arrives to the end is usual th
 
 As the question is recurrent I have collect some reference during the last years that I found interesting and useful. I have categorized them as purely python , bionformatics & genomics and a mix of python and bionformatics & genomics as well as other related resources. These courses are free or almost free. With almost free I mean courses from Udemy that regularly have discounts and can be get for 10-15$ or even some Coursera specialization that  can be get for around 50$.
 
-<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/pythonmicroscope.webp" alt="Python and Bioinformatics Learning courses" title="Python and Bioinformatics Learning courses" class="img-responsive center-block">>
+<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/pythonbook.webp" alt="Python and Bioinformatics Learning courses" title="Python and Bioinformatics Learning courses" class="img-responsive center-block">
 
 **Purely python**
 
