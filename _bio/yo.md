@@ -1,7 +1,7 @@
 ---
 name: Melchor Sanchez Martinez, Ph.D.
 image: /static/img/bio/yo-short.webp
-position1: Freelance / Jack of all trades
+position1: Freelancer / Jack of all trades
 position2: Course Instructor
 email: melchor .at. msanchezmartinez.com
 scholar: 7yk-bNoAAAAJ
@@ -25,7 +25,7 @@ When I was finishing the Ph.D., it was clear to me that I wanted to do something
 However, after four years I left Mind The Byte to join [Molomics](https://www.molomics.com) in March 2019 as a Senior Research Scientist in computational chemistry and data science. Molomics is a company that advances the search for structurally new small molecule therapeutics using artificial intelligence (AI) empowered by human knowledge. In Molomics, I looked for candidate molecules to became therapeutic agents against central nervous system (CNS) disorders, mainly Parkinson's disease. I had a great time there until July 2021 when I left Molomics. In fact, looking behind, I have to say that I have been very lucky with all the job positions I have had. I have enjoyed great times and collected good memories in all of them.
 
 
-After leaving Molomics, it was clear to me that I wanted to do something for myself. During my time at Mind The Byte, I began to develop an entrepreneurial mindset that grew over the years until it morphed into business ideas. However, I was, and still am, afraid of what it means to run a business, so I decided to do something in between, become a freelancer. On 1 <sup> st </sup> September 2021 I created [Burua Scientific](https://wwww.buruascientific.com), the brand through which I offer my [professional services](https://www.buruascientific.com/services) as a freelancer. Let's see how it goes!
+After leaving Molomics, it was clear to me that I wanted to do something for myself. During my time at Mind The Byte, I began to develop an entrepreneurial mindset that grew over the years until it morphed into business ideas. However, I was, and still am, afraid of what it means to run a business, so I decided to do something in between, becoming a freelancer. On 1<sup>st</sup> September 2021 I created [Burua Scientific](https://wwww.buruascientific.com), the brand through which I offer my [professional services](https://www.buruascientific.com/services) as a freelancer. Let's see how it goes!
 
 
 Last but not least, since 2015, I am also a course instructor at the [Universitat Oberta de Catalunya](https://www.uoc.edu), a private university based in Barcelona, in the [M.Sc. program in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion), teaching [Programming for Bioinformatics](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20211&cod_asignatura=M0.152&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) as well as directing and evaluating M.Sc. thesis. I really enjoy teaching!
