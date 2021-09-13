@@ -1,7 +1,7 @@
 ---
 name: Melchor Sanchez Martinez, Ph.D.
 image: /static/img/bio/yo-short.webp
-position1: Senior Research Scientist
+position1: Freelance / Jack of all trades
 position2: Course Instructor
 email: melchor .at. msanchezmartinez.com
 scholar: 7yk-bNoAAAAJ
@@ -22,10 +22,13 @@ After graduating in biotechnology with a Bachelor's degree, I decided to pursue 
 When I was finishing the Ph.D., it was clear to me that I wanted to do something at the borderline between computational chemistry and, if possible, pharmaceutical research. Luckily, before my Ph.D. defense I started to work at Mind The Byte (MtB), also in Barcelona. MtB was a startup devoted to developing new computational chemistry software for the pharma and biotech industries. We also provided consultancy services, acting as a Clinical Research Organization (CRO) in computational chemistry and cheminformatics and related fields such as bioinformatics. Moreover, MtB regularly participated in regional, national, and Europe-wide funded projects where I acted as a Principal Investigator. I joined the company as a computational chemist and progressed to Scientific Director. In addition to drug discovery, MtB gave me experience in real-world business operations, such as the acquisition of our main national competitor, as well as in project and people management. Moreover, MtB gave me the opportunity of direct my first [PhD thesis](http://hdl.handle.net/2445/148102). Great times indeed!
 
 
-However, after four years I left Mind The Byte to join [Molomics](https://www.molomics.com) in March 2019 as a Senior Research Scientist in computational chemistry and data science. Molomics is a company that advances the search for structurally new small molecule therapeutics using artificial intelligence (AI) empowered by human knowledge. In Molomics, I look for candidate molecules to became therapeutic agents against central nervous system (CNS) disorders, mainly Parkinson's disease.
+However, after four years I left Mind The Byte to join [Molomics](https://www.molomics.com) in March 2019 as a Senior Research Scientist in computational chemistry and data science. Molomics is a company that advances the search for structurally new small molecule therapeutics using artificial intelligence (AI) empowered by human knowledge. In Molomics, I looked for candidate molecules to became therapeutic agents against central nervous system (CNS) disorders, mainly Parkinson's disease. I had a great time there until July 2021 when I left Molomics. In fact, looking behind, I have to say that I have been very lucky with all the job positions I have had. I have enjoyed great times and collected good memories in all of them.
 
 
-Since 2015, I am also a course instructor at the [Universitat Oberta de Catalunya](https://www.uoc.edu), a private university based in Barcelona, in the [M.Sc. program in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion), teaching [Programming for Bioinformatics](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20211&cod_asignatura=M0.152&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) as well as directing and evaluating M.Sc. thesis.
+After leaving Molomics, it was clear to me that I wanted to do something for myself. During my time at Mind The Byte, I began to develop an entrepreneurial mindset that grew over the years until it morphed into business ideas. However, I was, and still am, afraid of what it means to run a business, so I decided to do something in between, become a freelancer. On 1 <sup> st </sup> September 2021 I created [Burua Scientific](https://wwww.buruascientific.com), the brand through which I offer my [professional services](https://www.buruascientific.com/services) as a freelancer. Let's see how it goes!
+
+
+Last but not least, since 2015, I am also a course instructor at the [Universitat Oberta de Catalunya](https://www.uoc.edu), a private university based in Barcelona, in the [M.Sc. program in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion), teaching [Programming for Bioinformatics](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20211&cod_asignatura=M0.152&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) as well as directing and evaluating M.Sc. thesis. I really enjoy teaching!
 
 
 For more info here there are my, hopefully updated, [Resume](https://www.dropbox.com/s/qkerekb3g5ebhx7/Melchor_Sanchez_Martinez_en_Resume.pdf?dl=0) and [CV](https://www.dropbox.com/s/cxu1bghkzn5g4wh/Melchor_Sanchez_Martinez_en_CV.pdf?dl=0)"
