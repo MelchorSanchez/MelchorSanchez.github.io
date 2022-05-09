@@ -28,6 +28,7 @@ However, after four years I left Mind The Byte to join [Molomics](https://www.mo
 
 After leaving Molomics, it was clear to me that I wanted to do something for myself. During my time at Mind The Byte, I began to develop an entrepreneurial mindset that grew over the years until it morphed into business ideas. However, I was, and still am, afraid of what it means to run a business, so I decided to do something in between, becoming a freelancer. On 1<sup>st</sup> September 2021 I created [Burua Scientific](https://wwww.buruascientific.com), the brand through which I offer my [professional services](https://www.buruascientific.com/services) as a freelancer. In addition, in March 2022 I also co-founded [ByteKem](https://wwww.bytekem.com) where, also as a freelancer, I (we) try to close the gap in the use of computational tools to discover molecules outside the biotech/pharma industries. So you could say **I am a molecule hunter using computers**.
 
+
 Last but not least, since 2015, I am also a course instructor at the [Universitat Oberta de Catalunya](https://www.uoc.edu), a private university based in Barcelona, in the [M.Sc. program in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion), teaching [Programming for Bioinformatics](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20211&cod_asignatura=M0.152&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) as well as directing and evaluating M.Sc. thesis. I really enjoy teaching!
 
 
