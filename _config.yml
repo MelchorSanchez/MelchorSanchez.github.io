@@ -1,9 +1,15 @@
 name: "Melchor Sanchez-Martinez"
+title: "Melchor Sanchez-Martinez, PhD"
+tagline: "The personal webblog of Melchor Sanchez-Martinez, PhD"
 description: "The Personal Homepage for Melchor Sanchez-Martinez. A research scientist with experience in project management and science management, passionate about science writing, communication and dissemination. Currently offering his professional services as a freelance through Burua Scientific, www.buruascientific.com"
 url: "http://msanchezmartinez.com"
 logo: 'avatar.png'
 
-plugins: [jekyll-paginate, jekyll-seo-tag]
+twitter:
+  username: melsanm
+  card: summary
+
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 paginate: 5
 paginate_path: "blog/page:num"
 
