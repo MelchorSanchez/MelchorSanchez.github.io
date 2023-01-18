@@ -2,7 +2,7 @@
 name: Melchor Sanchez Martinez, Ph.D.
 image: /static/img/bio/yo-short.webp
 position1: Senior Consultant
-position2: Course Instructor
+position2: Associate Professor
 email: melchor .at. msanchezmartinez.com
 scholar: 7yk-bNoAAAAJ
 #https://scholar.google.es/citations?user=7yk-bNoAAAAJ&hl=en
