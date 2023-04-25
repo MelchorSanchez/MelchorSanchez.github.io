@@ -12,33 +12,37 @@ categories: [Computer Aided Drug Design, CADD, Cheminformatics, Structure Based 
 <!-- excerpt-start -->
 Recently, in Burua Scientific we have published a new article highlighting the potentially **beneficial role of computer-aided drug design (CADD) techniques in marine drug discovery**. As we said in the [article](https://www.mdpi.com/1660-3397/20/1/53/htm), the oceans are an incredible source of bioactive compounds. But these compounds, once identified, are not easy to work with for a variety of reasons.
 
-<img src="https://github.com/MelchorSanchez/MelchorSanchez.github.io/blob/master/static/img/blog/mardrugs2022-1024x1021.webp" alt="Target fishinf, Target finding, marine molecules">
+<img src="https://github.com/MelchorSanchez/MelchorSanchez.github.io/blob/master/static/img/blog/mardrugs2022-1024x1021.webp" alt="Target fishing, Target finding, marine molecules">
 <p style="font-size:12px;color:darkgrey" class="text-center"></p>
 
 ~~~html
 
-metformin='CN(C)C(=N)NC(=N)N'
-pk.read_from_smiles(metformin)
-pk.optimize('HF/6-31g(d)')
-respCharges=pk.calc_resp_charges()
-res=defaultdict(list)
-for i, atom in enumerate(pk.mol.GetAtoms()):
-    res['SYMBOL'].append(atom.GetSymbol())
-    res['RESP'].append(respCharges[i])
-molecule_df = pd.DataFrame(res)
+“Oceans cover about 70% of the Earth’s surface and up to 80% of life inhabits them, offering a huge diversity of enzymes and bioactive compounds that can be exploited in different areas, including drug discovery. Biodiversity directly relates to chemodiversity, providing huge opportunities for discovering novel therapeutics with novel mechanisms of action. Marine natural products (MNPs) have been a rich source of drug-like compounds for decades. In 2020, there were eight marine-derived products approved as drugs by the United States Food and Drug Administration (US FDA) or the European Medicines Agency (EMA).
 
-pk.read_from_molfile('metformin.mol')
-pk.optimize('HF/6-31g(d)')
-respCharges=pk.calc_resp_charges()
-res=defaultdict(list)
-for i, atom in enumerate(pk.mol.GetAtoms()):
-    res['SYMBOL'].append(atom.GetSymbol())
-    res['RESP'].append(respCharges[i])
-molecule_df = pd.DataFrame(res)
+In addition to that, tens of drug candidates are in phase I-III of drug development, highlighting the increasing potential of MNPs. Once the compounds have been obtained, their complex structures and their molecular targets can be difficult to establish, particularly when the amount of compounds is very small. All these factors must be added to the proper implementation of the Nagoya Protocol and the bioavailability of marine natural products, making computational techniques particularly useful in these cases. *in silico* Computer Aided Drug Design techniques help to reduce the number of experiments needed and, in addition, do not require biological samples, helping to overcome, at least partially, the above-mentioned difficulties and to protect biodiversity in sensitive habitats.”
 
 ~~~
-<p style="font-size:12px;color:darkgrey" class="text-center">Example of RESP charges calculation starting from Smiles or a MOL file using Psikit. Code inspired by [Iwatobipen's blog post](https://iwatobipen.wordpress.com/2019/03/11/calculate-atomic-charges-with-psikit-rdkit-psi4/) </p>
+<img src="https://github.com/MelchorSanchez/MelchorSanchez.github.io/blob/master/static/img/blog/trget_fishing.png.webp" alt="Target fishing, Target finding, marine molecules">
+<p style="font-size:12px;color:darkgrey" class="text-center">Target profiling is a very common technique employed by the biggest Pharma companies as Roche. Image adapted from [Roche Drawn to Science series](https://www.roche.com/stories/target-identification-in-drug-discovery/) </p>
 
-Now we have more clear why RESP charges are interesting and how we can use it, but what can be the "real" applications of RESP charges? So for instance CADD projects. In a drug discovery project, the use of RESP charges cold be important, for example, to perform MD simulations of docking complexes with the aim of incorporating flexibility after rigid docking to test the stability of the complex and obtain a more accurate description of the binding mode due to the incorporation of the so-called induced fit events (more information on post-processing of docking poses with MD can be found [here](https://www.mdpi.com/1660-3397/15 / 12/366 / htm) or [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1320)) and / or to perform more accurate free (binding) energy calculations of the complex). In practice, what is done is to optimize the geometry of the docked molecule, calculate the RESP charges of the optimized conformation and add them together with the Cartesian coordinates, xyz, from the docking calculation, to a new SDF/MOL/MOL2 file. This file is input to antechamber. An interesting option would be to make antechamber recognize psi4 RESP calculation output, this will simplify the file manipulation, but by now I have not try it. Maybe it's already done and I am not aware of it. If it is the case, please let me know!
 
- So, let's try Psikit! Then add the RESP charges to you protein-ligand simulations and check if your results improve! [Here you can find an example that uses Psikit to calculate RESP charges that then are reflected into a parameterized file coming from antechamber that finally is converted to Gromacs topology](https://github.com/MelchorSanchez/blog_post_example_scripts/blob/main/resp_calculation.py).
+A key step in moving these molecules towards a potential drug discovery pipeline is to decipher whether or not they can modulate the activity of a disease target; de-orphanizing the molecules. **Target prediction is a key step in early preclinical drug discovery/development**. It is crucial in determining potential clinical application and deciding on the initiation of drug development campaigns.
+
+
+There may be compounds that initiate the drug discovery process without having identified a clear target. So-called orphan compounds, which may be known for example from phenotypic screening, are able to show changes in cells or organisms after exposure to them. However, before entering clinical trials, they often require clarification of the molecular mechanism underlying their activity.
+
+
+These potential mechanisms can be investigated using experimental approaches such as affinity chromatography or activity-based protein profiling (ABPP). However, these experiments are costly and time-consuming, so computational alternatives to rapidly predict potential targets are becoming increasingly popular. These techniques, known as virtual profiling, target profiling, *in silico* target prediction, target identification or target fishing, can be classified as either ligand-based or structure-based approaches, depending on how they work, but they share a common aspect: the principle of similarity. This states that “similar molecules have a similar biological effect” and, conversely, that “similar proteins bind similar ligands”. A good summary of these techniques can be found in the review by [Sydow et al.](https://scholarlypublications.universiteitleiden.nl/access/item:2911115/view).
+
+
+<img src="https://github.com/MelchorSanchez/MelchorSanchez.github.io/blob/master/static/img/blog/pexels-karolina-grabowska-4386235-768x512.jpg.webp" alt="Pexels. Karolina Grabowska. pexels-karolina-grabowska-4386235-768x512.jpg">
+<p style="font-size:12px;color:darkgrey" class="text-center">The use of computational techniques can save money and time. It can help avoid unnecessary waste of resources</p>
+
+
+The predicted computational targets should, obviously, experimentally validated *in vitro* and *in vivo*. However, the provided information save a lot of time and money, making its use highly recommendable. At least in cases where there is a known activity but not a clear Mechanism of Action (MoA) or in cases like (Marine) Natural Products when due to their associated difficulties it can help to advance their study avoiding the lost of potential interesting compounds.
+
+
+There are many cases of successful applications of these techniques in the literature and here at Burua Scientific we also have some [[1](https://www.mdpi.com/1660-3397/20/1/53/htm),[2](),[3](),[4]()]. So, given the case, don’t underestimate *in silico* techniques to advance your drug discovery pipeline!
+
+
+***This article has been retrieved from Burua's Science blog due to its closure in the coming months***
