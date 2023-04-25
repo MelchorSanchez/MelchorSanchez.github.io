@@ -42,7 +42,7 @@ These potential mechanisms can be investigated using experimental approaches suc
 The predicted computational targets should, obviously, experimentally validated *in vitro* and *in vivo*. However, the provided information save a lot of time and money, making its use highly recommendable. At least in cases where there is a known activity but not a clear Mechanism of Action (MoA) or in cases like (Marine) Natural Products when due to their associated difficulties it can help to advance their study avoiding the lost of potential interesting compounds.
 
 
-There are many cases of successful applications of these techniques in the literature and here at Burua Scientific we also have some [[1](https://www.mdpi.com/1660-3397/20/1/53/htm),[2](),[3](),[4]()]. So, given the case, don’t underestimate *in silico* techniques to advance your drug discovery pipeline!
+There are many cases of successful applications of these techniques in the literature and here at Burua Scientific we also have some [[1](https://www.mdpi.com/1660-3397/20/1/53/htm),[2](https://www.mdpi.com/2218-273X/10/4/639/htm),[3](https://www.sciencedirect.com/science/article/pii/S0278691519303047),[4](https://onlinelibrary.wiley.com/doi/pdf/10.1111/acel.12772)]. So, given the case, don’t underestimate *in silico* techniques to advance your drug discovery pipeline!
 
 
 ***This article has been retrieved from Burua's Science blog due to its closure in the coming months***
