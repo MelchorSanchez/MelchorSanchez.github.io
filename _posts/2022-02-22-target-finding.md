@@ -13,7 +13,7 @@ categories: [Computer Aided Drug Design, CADD, Cheminformatics, Structure Based 
 Recently, in Burua Scientific we have published a new article highlighting the potentially **beneficial role of computer-aided drug design (CADD) techniques in marine drug discovery**. As we said in the [article](https://www.mdpi.com/1660-3397/20/1/53/htm), the oceans are an incredible source of bioactive compounds. But these compounds, once identified, are not easy to work with for a variety of reasons.
 <!-- excerpt-end -->
 
-<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/mardrugs2022-1024x1021.webp" alt="Target fishing, Target finding, marine molecules">
+<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/mardrugs2022-1024x1021.webp" alt="Target fishing, Target finding, marine molecules"> class="img-responsive center-block">
 <p style="font-size:12px;color:darkgrey" class="text-center"></p>
 
 ~~~html
@@ -23,7 +23,7 @@ Recently, in Burua Scientific we have published a new article highlighting the p
 In addition to that, tens of drug candidates are in phase I-III of drug development, highlighting the increasing potential of MNPs. Once the compounds have been obtained, their complex structures and their molecular targets can be difficult to establish, particularly when the amount of compounds is very small. All these factors must be added to the proper implementation of the Nagoya Protocol and the bioavailability of marine natural products, making computational techniques particularly useful in these cases. *in silico* Computer Aided Drug Design techniques help to reduce the number of experiments needed and, in addition, do not require biological samples, helping to overcome, at least partially, the above-mentioned difficulties and to protect biodiversity in sensitive habitats.”
 
 ~~~
-<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/trget_fishing.png.webp" alt="Target fishing, Target finding, marine molecules">
+<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/trget_fishing.png.webp" alt="Target fishing, Target finding, marine molecules"> class="img-responsive center-block">
 <p style="font-size:12px;color:darkgrey" class="text-center">Target profiling is a very common technique employed by the biggest Pharma companies as Roche. Image adapted from [Roche Drawn to Science series](https://www.roche.com/stories/target-identification-in-drug-discovery/) </p>
 
 
@@ -36,7 +36,7 @@ There may be compounds that initiate the drug discovery process without having i
 These potential mechanisms can be investigated using experimental approaches such as affinity chromatography or activity-based protein profiling (ABPP). However, these experiments are costly and time-consuming, so computational alternatives to rapidly predict potential targets are becoming increasingly popular. These techniques, known as virtual profiling, target profiling, *in silico* target prediction, target identification or target fishing, can be classified as either ligand-based or structure-based approaches, depending on how they work, but they share a common aspect: the principle of similarity. This states that “similar molecules have a similar biological effect” and, conversely, that “similar proteins bind similar ligands”. A good summary of these techniques can be found in the review by [Sydow et al.](https://scholarlypublications.universiteitleiden.nl/access/item:2911115/view).
 
 
-<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/pexels-karolina-grabowska-4386235-768x512.jpg.webp" alt="Pexels. Karolina Grabowska. pexels-karolina-grabowska-4386235-768x512.jpg">
+<img src="https://raw.githubusercontent.com/MelchorSanchez/MelchorSanchez.github.io/master/static/img/blog/pexels-karolina-grabowska-4386235-768x512.jpg.webp" alt="Pexels. Karolina Grabowska. pexels-karolina-grabowska-4386235-768x512.jpg"> class="img-responsive center-block">
 <p style="font-size:12px;color:darkgrey" class="text-center">The use of computational techniques can save money and time. It can help avoid unnecessary waste of resources</p>
 
 
