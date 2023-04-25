@@ -11,6 +11,7 @@ categories: [Computer Aided Drug Design, CADD, Cheminformatics, Structure Based 
 ---
 <!-- excerpt-start -->
 Recently, in Burua Scientific we have published a new article highlighting the potentially **beneficial role of computer-aided drug design (CADD) techniques in marine drug discovery**. As we said in the [article](https://www.mdpi.com/1660-3397/20/1/53/htm), the oceans are an incredible source of bioactive compounds. But these compounds, once identified, are not easy to work with for a variety of reasons.
+<!-- excerpt-end -->
 
 <img src="https://github.com/MelchorSanchez/MelchorSanchez.github.io/blob/master/static/img/blog/mardrugs2022-1024x1021.webp" alt="Target fishing, Target finding, marine molecules">
 <p style="font-size:12px;color:darkgrey" class="text-center"></p>
