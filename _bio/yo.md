@@ -1,7 +1,7 @@
 ---
 name: Melchor Sanchez Martinez, Ph.D.
 image: /static/img/bio/yo-short.webp
-position1: Senior Consultant
+position1: Team Lead
 position2: Associate Professor
 email: melchor .at. msanchezmartinez.com
 scholar: 7yk-bNoAAAAJ
@@ -31,7 +31,7 @@ However, after four years I left Mind The Byte to join [Molomics](https://www.mo
 After leaving Molomics, it was clear to me that I wanted to do something for myself. During my time at Mind The Byte, I began to develop an entrepreneurial mindset that grew over the years until it morphed into business ideas. However, I was, and still am, afraid of what it means to run a business, so I decided to do something in between, becoming a freelancer. On 1<sup>st</sup> September 2021 I created [Burua Scientific](https://wwww.buruascientific.com), the brand through which I offer my [professional services](https://www.buruascientific.com/services) as a freelancer. In addition, in March 2022 I also co-founded [ByteKem](https://wwww.bytekem.com) where, also as a freelancer, I (togeter with my colleague Emanuele) try to close the gap in the use of computational tools to discover molecules outside the biotech/pharma industries. 
 
 
-However, Burua took up too much of my time and I could not devote the necessary effort to growing Bytekem. So I took a step aside, and although I still collaborated with Emanuele, I decided to focus solely on Burua Scientific. Finally, a few months later, I decided to completely abandon the freelance route. When I started freelancing I had in mind to set up a small consulting company, but although I would say that I have been successful as a freelancer, I was just acting as a normal employee of other companies. A freelancer instead of a permanent employee, but more or less the same. That was a far cry from my original aspirations. 
+However, Burua took up too much of my time and I could not devote the necessary effort to growing Bytekem. So I took a step aside, and although I continued to collaborate with Emanuele for a while, I decided to focus solely on Burua Scientific. Finally, a few months later, I decided to completely abandon the freelance route. When I started freelancing I had in mind to set up a small consulting company, but although I would say that I have been successful as a freelancer, I was just acting as a normal employee of other companies. A freelancer instead of a permanent employee, but more or less the same. That was a far cry from my original aspirations. 
 
 
 So 1 year and almost 3 months after starting as a freelancer I returned to the business world by joining [Zifo](http://wwww.zifornd.com) as a Senior Consultant in Cheminformatics first, and since October 2023 as Team Lead in Cheminformatics. Zifo is a company that helps science-driven organisations innovate through a full range of specialised scientific computing services. Within its portfolio of services, Zifo has decided to strengthen chemoinformatics. This branch is fairly new, within the company, and as I see it right now it is like a blank canvas or a building on the foundations, with a lot of room for new ideas and growth. There is a lot to do. And in this context I hope to be able to help Zifo establish and stabilize this new scientific area. The future looks challenging but also full of fun, let's see how it goes!
