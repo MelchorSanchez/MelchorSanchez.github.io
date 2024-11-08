@@ -15,7 +15,9 @@ publons: 1227482/melchor-sanchez-martinez
 researchgate: Melchor-Sanchez-Martinez
 description: "Hey! I am  Melchor aka **molecule hunter**. This is because working here or there my goal is to try to enhance the discovery, development and/or production of new molecules using computers (through Computational Sciences and Informatics). 
 
+
 I am an experienced player in the biotechnology and pharmaceutical sectors where I have held management and senior-level positions across different companies, specializing in consultancy and service provision. I am an enthusiastic team player with strong communication, leadership, and management skills, demonstrated through my experience leading and overseeing diverse projects and teams.
+
 
 On the technical side, I am a highly skilled, confident, and professional research scientist and consultant. I have experience in business analysis, with a strong focus on cheminformatics, bioinformatics, and data science processes. I am also highly experienced in developing and applying computational tools at the interface of chemistry and biology, within both industry and academia. My work is characterized by a strong client- and product-oriented focus, paired with an entrepreneurial and business-driven mindset, demonstrated through my roles in various startups and my freelance experience. Not a founder of a company but a co-founder of two nice kids! A guy from a [small town of Navarra](https://es.wikipedia.org/wiki/Ribaforada) that now lives in a [slightly bigger town of Catalonia](https://ca.wikipedia.org/wiki/Sant_Pere_de_Ribes), in the greater Barcelona area. I have changed the [desert](https://bardenasreales.es/) for the [beach](https://platgessitges.com/sitges-beaches)... although I prefer [mountains](https://www.cerdanya.org/#).
 
