@@ -13,7 +13,7 @@ gitlab: msanmar
 orcid: 0000-0002-3674-8577
 publons: 1227482/melchor-sanchez-martinez
 researchgate: Melchor-Sanchez-Martinez
-description: "Hey! I am  Melchor aka **molecule hunter**. This is because working here or there my goal is to try to enhance the discovery, development and/or production of new molecules using computers (through Computational Sciences and Informatics). 
+description: "Hey! I am  Melchor, a **molecule hunter**. This is because working here or there my goal is to try to enhance the discovery, development and/or production of new molecules using computers (through Computational Sciences and Informatics). 
 
 
 I am an experienced player in the biotechnology and pharmaceutical sectors where I have held management and senior-level positions across different companies, specializing in consultancy and service provision. I am an enthusiastic team player with strong communication, leadership, and management skills, demonstrated through my experience leading and overseeing diverse projects and teams.
