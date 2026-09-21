@@ -2,7 +2,7 @@ name: "Melchor Sanchez-Martinez"
 title: "Melchor Sanchez-Martinez, PhD"
 tagline: "The personal webblog of Melchor Sanchez-Martinez, PhD"
 description: "The Personal Homepage for Melchor Sanchez-Martinez. A computational scientist with 15+ years of experience in cheminformatics, AI/ML and data science applied to drug and molecule discovery, with a background in project and science management, passionate about science writing, communication and dissemination."
-url: "http://msanchezmartinez.com"
+url: "https://msanchezmartinez.com"
 logo: 'avatar.png'
 
 twitter:
@@ -36,41 +36,5 @@ collections:
                 output: true
         publications:
                 output: true
-
-# About/contact
-# author:
-#   name: Melchor Sanchez-Martinez
-#   description: A <strong>research scientist with experience in project management and science management, passionate about science writing, communication and disseminationr</strong>.
-#   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
-#   contact:
-#     twitter:   https://twitter.com/melsanm
-#     linkedin:  https://www.linkedin.com/in/melchorsanchezmartinez
-#     github:    https://github.com/MelchorSanchez
-#     gitlab:    https://gitlab.com/msanmar
-#     twitter:   https://twitter.com/Li_Zhihao
-#     email:     sanchezmartinezmelchor .dot. gmail.com
-
-# nav:
-#   Home:
-#     - '/'
-#   Bio:
-#     - '/about/'
-#   Publications:
-#     - 'publications'
-#   Blog:
-#     - '/blog/'
-#     - { Categories: '/blog/categories/' }
-#     - { Tags: '/blog/tags/' }
-#   Contact:
-#     - '/contact/'
-#
-# tags_page: '/blog/tags/'
-# categories_page: '/blog/categories/'
-#
-#
-# tag_page_layout: tag_page
-# tag_page_dir: /blog/tag
-# tag_permalink_style: pretty
-
 
 excerpt_separator: '<!-- excerpt-end -->'

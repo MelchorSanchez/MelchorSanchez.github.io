@@ -1,16 +1,30 @@
-MelchorSanchez.github.io
-================
-This personal website is a **fork from bbarad.github.io**, that is a freely licensed personal website for Benjamin Barad. Follow the instructions provided by bbarad to clone it.
+# msanchezmartinez.com
 
-## How to clone this website:
-1. Fork it and change the repository name to USERNAME.github.io (mine was bbarad, but that won't work for you!)
-2. Delete CNAME (you can add a new one later)
-3. Delete my publications in _data/publications.yml and add your own, using the existing ones as a template.
-4. Update index.md and contact.md
-5. Remove my blog posts from _posts and optionally add your own. If you want a blog, uncomment the "blog" lines in _data/navlinks.yml
-6. Change the name of the site in _config.yml and in _includes/header.html
-7. Change the social media stuff in _includes/footer.html
-8. Add new photos and whatnot in static/img and new pdfs in static/pdf
-9. Change the name on the atom feed in blog.xml and in _includes/header.html
-10. Make an account on Disqus and replace _includes/disqus.html with the relevant information there.
-11. Set up google analytics and update it in _includes/footer.html, or remove it completely - it is not very useful!
+Personal website of Melchor Sanchez-Martinez, PhD: bio, publications and blog.
+Built with [Jekyll](https://jekyllrb.com/) and published with GitHub Pages at <https://msanchezmartinez.com>.
+
+Forked from [bbarad.github.io](https://github.com/bbarad/bbarad.github.io), a freely licensed personal website template (see `LICENSE`).
+
+## Where things live
+
+| What | Where |
+| --- | --- |
+| Bio text and profile links | `_bio/yo.md` (front matter drives the sidebar in `bio/index.html`) |
+| Site name, description, URL | `_config.yml` |
+| Top navigation | `_data/navlinks.yml` |
+| Publications | `_data/publications.yml` (`scripts/europePMC_csv_to_yml.py` can generate entries) |
+| Blog posts / drafts | `_posts/`, `_drafts/` |
+| Header, footer, cookie banner, analytics | `_includes/` |
+| CSS, JS, images, PDFs | `static/` |
+
+## Run it locally
+
+```bash
+bundle install
+bundle exec jekyll serve --future   # http://localhost:4000
+```
+
+## Deployment
+
+Pushing to `master` triggers the GitHub Pages build and the `Jekyll site CI` workflow
+(`.github/workflows/jekyll.yml`), which builds the site with the Gemfile's Jekyll version.

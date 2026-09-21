@@ -9,49 +9,49 @@ group: bio
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
             <div class="col-sm-4">
-                <img class="img-responsive max-width:100%; height:auto" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"><br>
+                <img class="img-responsive" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"><br>
                 <strong>{{member.name}}</strong> <br>
-                <a href="mailto:sanchezmartinezmelchor .at. gmail.com"><img class="inline-block mem-icon" src="/static/img/logos/mail.webp" width="25" height="20"></a>
+                <a href="mailto:sanchezmartinezmelchor .at. gmail.com"><img class="inline-block mem-icon" src="/static/img/logos/mail.webp" alt="Email" width="25" height="20"></a>
                 <em>{{member.email}}</em> <br>
                 {% if member.position1 %}
-                  <a href="http://www.zifornd.com"><img class="inline-block mem-icon" src="/static/img/logos/zifo_logo.webp"  width="25" height="25"></a>
+                  <a href="https://www.zifornd.com"><img class="inline-block mem-icon" src="/static/img/logos/zifo_logo.webp" alt="Company website"  width="25" height="25"></a>
                   {{member.position1}} <br>
                 {% endif %}
                 {% if member.position2 %}
-                  <a href="http://www.uoc.edu"><img class="inline-block mem-icon" src="/static/img/logos/uoc.webp" width="25" height="25"></a>
+                  <a href="https://www.uoc.edu"><img class="inline-block mem-icon" src="/static/img/logos/uoc.webp" alt="Universitat Oberta de Catalunya" width="25" height="25"></a>
                   {{member.position2}} <br><hr>
                 {% endif %}
                 {% if member.orcid %}
-                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logos/orcidid_logo.webp" width="25" height="25"></a>
-                  <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
+                  <a href="https://orcid.org"><img class="inline-block mem-icon" src="/static/img/logos/orcidid_logo.webp" alt="ORCID" width="25" height="25"></a>
+                  <a href="https://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
                 {% endif %}
                 {% if member.linkedin %}
-                  <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logos/lin_logo.webp" width="25" height="25"></a>
-                  <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
+                  <a href="https://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logos/lin_logo.webp" alt="LinkedIn" width="25" height="25"></a>
+                  <a href= "https://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
                 {% endif %}
                 {% if member.scholar %}
-                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logos/gscholar_logo.webp" width="25" height="25"></a>
-                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
+                  <a href="https://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logos/gscholar_logo.webp" alt="Google Scholar" width="25" height="25"></a>
+                  <a href= "https://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
                 {% endif %}
                 {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logos/twitter_logo.webp" width="25" height="25"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+                  <a href="https://twitter.com"><img class="inline-block mem-icon" src="/static/img/logos/twitter_logo.webp" alt="Twitter" width="25" height="25"></a>
+                  <a href= "https://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
                 {% endif %}
                 {% if member.github %}
-                  <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logos/github_logo.webp" width="25" height="25"></a>
-                  <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+                  <a href="https://github.com"><img class="inline-block mem-icon" src="/static/img/logos/github_logo.webp" alt="GitHub" width="25" height="25"></a>
+                  <a href= "https://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
                 {% if member.gitlab %}
-                  <a href="http://gitlab.com"><img class="inline-bloc mem-icon" src="/static/img/logos/gitlab_logo.webp" width="25" height="25"></a>
-                  <a href= "http://gitlab.com/{{member.github}}"> {{member.gitlab}} </a> <br>
+                  <a href="https://gitlab.com"><img class="inline-block mem-icon" src="/static/img/logos/gitlab_logo.webp" alt="GitLab" width="25" height="25"></a>
+                  <a href= "https://gitlab.com/{{member.gitlab}}"> {{member.gitlab}} </a> <br>
                 {% endif %}
                 {% if member.publons %}
-                  <a href="http://www.publons.com"><img class="inline-block mem-icon" src="/static/img/logos/publons_logo.webp" width="25" height="25"></a>
+                  <a href="https://www.publons.com"><img class="inline-block mem-icon" src="/static/img/logos/publons_logo.webp" alt="Publons" width="25" height="25"></a>
                   <a href= "https://publons.com/researcher/{{member.publons}}"> Profile </a> <br>
                 {% endif %}
                 {% if member.researchgate %}
-                  <a href="https://www.researchgate.net"><img class="inline-block mem-icon" src="/static/img/logos/researchgate_logo.webp" width="25" height="25"></a>
-                  <a href= "https://www.researchgate.net/profile/{{member.publons}}"> Profile </a> <br>
+                  <a href="https://www.researchgate.net"><img class="inline-block mem-icon" src="/static/img/logos/researchgate_logo.webp" alt="ResearchGate" width="25" height="25"></a>
+                  <a href= "https://www.researchgate.net/profile/{{member.researchgate}}"> Profile </a> <br>
                 {% endif %}
             </div>
             <div class="col-sm-8">

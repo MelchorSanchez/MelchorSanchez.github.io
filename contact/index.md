@@ -27,7 +27,7 @@ The easiest way to get in touch with me is by [email](mailto:melchor .at. msanch
 </p>
 
 <p class="text-justify" style="font-size:120%;">
-You can also find me online at [twitter](http://twitter.com/melsanm), [linkedin](http://https://www.linkedin.com/in/melchorsanchezmartinez/) or [github](http://github.com/MelchorSanchez) among [others](/bio).<br>
+You can also find me online at [twitter](https://twitter.com/melsanm), [linkedin](https://www.linkedin.com/in/melchorsanchezmartinez/) or [github](https://github.com/MelchorSanchez) among [others](/bio).<br>
 </p>
 
 <p class="text-justify" style="font-size:120%;">
