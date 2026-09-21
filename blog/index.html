@@ -13,7 +13,7 @@ group: blog
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 <div class="row">
-<div class="col-sm-8 lead">
+<div class="col-sm-12 lead">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     {% if post.updated %}
