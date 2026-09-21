@@ -43,6 +43,6 @@ So 1 year and almost 3 months after starting as a freelancer I returned to the b
 Last but not least, since 2015, I also collaborate with the [Universitat Oberta de Catalunya](https://www.uoc.edu), a private university based in Barcelona, in the [M.Sc. program in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion), teaching [Programming for Bioinformatics](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20211&cod_asignatura=M0.152&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) as well as directing and evaluating M.Sc. thesis.  I also love teaching, helping people learn and at the same time [communicating knowledge (another of my passions)](/static/pdf/outreach.pdf). I really enjoy teaching!
 
 
-For more info here there are my, hopefully updated, [Cheminformatics oriented CV]([https://www.dropbox.com/s/qkerekb3g5ebhx7/Melchor_Sanchez_Martinez_en_Resume.pdf?dl=0](https://drive.google.com/file/d/1wFN50pBzJOc1Wl3k33iTcjMBRDhHiG_8/view?usp=drive_link)) and [Data Science oriented CV](https://drive.google.com/file/d/1UufWOtNpQEUiulIe9HCWUsFcfYF53_44/view?usp=drive_link)"
+For more info here there are my, hopefully updated, [Cheminformatics oriented CV](https://drive.google.com/file/d/1wFN50pBzJOc1Wl3k33iTcjMBRDhHiG_8/view?usp=drive_link) and [Data Science oriented CV](https://drive.google.com/file/d/1UufWOtNpQEUiulIe9HCWUsFcfYF53_44/view?usp=drive_link)"
 
 ---
