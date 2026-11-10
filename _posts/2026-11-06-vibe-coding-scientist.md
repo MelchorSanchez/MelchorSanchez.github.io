@@ -1,5 +1,5 @@
 ---
-title: Vibe coding won't replace the scientist but it will change who can build
+title: Vibe coding won't replace the scientist, but it will change who can build
 subtitle:
 layout: post
 group: blog
